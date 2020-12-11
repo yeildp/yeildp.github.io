@@ -6,7 +6,7 @@
   <link href="https://yeildp.github.io/atom.xml" rel="self"/>
   
   <link href="https://yeildp.github.io/"/>
-  <updated>2020-12-11T07:17:59.000Z</updated>
+  <updated>2020-12-11T09:04:03.000Z</updated>
   <id>https://yeildp.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 学习</title>
+    <link href="https://yeildp.github.io/2020/12/11/Hexo-%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://yeildp.github.io/2020/12/11/Hexo-%E5%AD%A6%E4%B9%A0/</id>
+    <published>2020-12-11T09:04:03.000Z</published>
+    <updated>2020-12-11T09:04:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://hexo.io/zh-cn/docs">完整文档参照</a></p><h1 id="创建博客"><a href="#创建博客" class="headerlink" title="创建博客"></a><a href="#%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2">创建博客</a></h1><p><a href="https://hexo.io/zh-cn/docs/commands#new">文档参照</a><br><code>npx hexo new [layout] &lt;title&gt;</code></p><h1 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a><a href="#%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6">生成静态文件</a></h1><p><a href="https://hexo.io/zh-cn/docs/commands#generate">文档参照</a><br><code>npx hexo g</code><br>使用 <code>-d</code> 选项在生成静态文件后部署到github</p><h1 id="启动服务"><a href="#启动服务" class="headerlink" title="启动服务"></a><a href="#%E5%90%AF%E5%8A%A8%E6%9C%8D%E5%8A%A1">启动服务</a></h1><p><a href="https://hexo.io/zh-cn/docs/commands#server">文档参照</a><br><code>npx hexo s</code></p><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a><a href="#%E9%83%A8%E7%BD%B2">部署</a></h1><p><a href="https://hexo.io/zh-cn/docs/commands#deploy">文档参照</a><br><code>npx hexo d</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Hexo 博客" scheme="https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/Hexo-%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="学习" scheme="https://yeildp.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Hexo" scheme="https://yeildp.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown 学习</title>

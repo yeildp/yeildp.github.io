@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://yeildp.github.io/2020/12/11/Hexo-%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-12-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yeildp.github.io/2020/12/11/Markdown-%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2020-12-11</lastmod>
@@ -73,6 +80,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://yeildp.github.io/tags/Hexo/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -91,6 +105,13 @@
   
   <url>
     <loc>https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/Markdown/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/Hexo-%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
