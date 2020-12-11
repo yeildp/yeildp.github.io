@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>杨平的个人博客</title>
   
-  <subtitle>My Blogs for Study And Develop</subtitle>
+  <subtitle>My Blogs for Study And Dev</subtitle>
   <link href="https://yeildp.github.io/atom.xml" rel="self"/>
   
   <link href="https://yeildp.github.io/"/>
