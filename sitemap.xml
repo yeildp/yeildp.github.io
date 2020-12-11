@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://yeildp.github.io/2020/12/11/Markdown-%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-12-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yeildp.github.io/2017/12/01/offer-0/</loc>
     
     <lastmod>2019-04-20</lastmod>
@@ -52,10 +59,38 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://yeildp.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeildp.github.io/tags/Markdown/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://yeildp.github.io/categories/AtOffer/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-12-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/Markdown/</loc>
     <lastmod>2020-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

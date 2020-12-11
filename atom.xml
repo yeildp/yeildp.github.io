@@ -6,7 +6,7 @@
   <link href="https://yeildp.github.io/atom.xml" rel="self"/>
   
   <link href="https://yeildp.github.io/"/>
-  <updated>2019-04-20T03:29:21.638Z</updated>
+  <updated>2020-12-11T07:17:59.000Z</updated>
   <id>https://yeildp.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown 学习</title>
+    <link href="https://yeildp.github.io/2020/12/11/Markdown-%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://yeildp.github.io/2020/12/11/Markdown-%E5%AD%A6%E4%B9%A0/</id>
+    <published>2020-12-11T07:17:59.000Z</published>
+    <updated>2020-12-11T07:17:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a><a href="#%E6%A0%87%E9%A2%98">标题</a></h1><blockquote><h1 id="title-一级标题"><a href="#title-一级标题" class="headerlink" title="# title   一级标题"></a><code># title</code>   一级标题</h1><h2 id="title-二级标题"><a href="#title-二级标题" class="headerlink" title="## title 二级标题"></a><code>## title</code> 二级标题</h2><h3 id="title-三级标题"><a href="#title-三级标题" class="headerlink" title="### title 三级标题"></a><code>### title</code> 三级标题</h3><h4 id="title-四级标题"><a href="#title-四级标题" class="headerlink" title="#### title 四级标题"></a><code>#### title</code> 四级标题</h4><h5 id="title-五级标题"><a href="#title-五级标题" class="headerlink" title="##### title 五级标题"></a><code>##### title</code> 五级标题</h5><h5 id="title-六级标题"><a href="#title-六级标题" class="headerlink" title="###### title 六级标题"></a><code>###### title</code> 六级标题</h5></blockquote><hr><h1 id="锚点"><a href="#锚点" class="headerlink" title="锚点"></a><a href="#%E9%94%9A%E7%82%B9">锚点</a></h1><blockquote><p>网页制作中超级链接的一种，又叫命名锚记。命名锚记像一个迅速定位器一样是一种页面内的超级链接，运用相当普遍。<br>使用命名锚记可以在文档中设置标记，这些标记通常放在文档的特定主题处或顶部。然后可以创建到这些命名锚记的链接，这些链接可快速将访问者带到指定位置。</p><p>创建：<code>[显示名称](#锚点名称)</code></p></blockquote><hr><h1 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a><a href="#%E5%88%86%E9%9A%94%E7%BA%BF">分隔线</a></h1><p><code>***</code> <code>---</code> <code>___</code></p><hr><h1 id="段落"><a href="#段落" class="headerlink" title="段落"></a><a href="#%E6%AE%B5%E8%90%BD">段落</a></h1><blockquote><p>区块: <code>&gt; content</code>  嵌套: </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt; content1</span><br><span class="line">&gt; &gt; content1.1</span><br><span class="line">&gt; &gt; &gt; content1.1.1</span><br></pre></td></tr></table></figure><p>换行是使用两个以上空格加上回车。</p></blockquote><hr><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a><a href="#%E5%AD%97%E4%BD%93">字体</a></h1><blockquote><h2 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a><em>斜体</em></h2><p><code>*text*</code> <code>_text_</code></p></blockquote><blockquote><h2 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a><strong>粗体</strong></h2><p><code>**text**</code> <code>__text__</code></p></blockquote><blockquote><h2 id="粗斜体"><a href="#粗斜体" class="headerlink" title="粗斜体"></a><strong><em>粗斜体</em></strong></h2><p><code>***text***</code> <code>___text___</code></p></blockquote><blockquote><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a><del>删除线</del></h2><p><code>~~text~~</code></p></blockquote><blockquote><h2 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a><u>下划线</u></h2><p><code>&lt;u&gt;text&lt;/u&gt;</code></p></blockquote><hr><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a><a href="#%E5%88%97%E8%A1%A8">列表</a></h1><blockquote><ul><li>无序列表：<br><code>* text1</code>, <code>+ text1</code>, <code>- text1</code></li></ul></blockquote><blockquote><ul><li>有序列表：<br><code>1. text1</code> <code>2. text2</code></li></ul></blockquote><blockquote><ul><li>列表嵌套：<br>在子列表中的选项前面添加四个空格：  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">1. 第一项：</span><br><span class="line">   - 第一项嵌套的第一个元素</span><br><span class="line">   - 第一项嵌套的第二个元素</span><br><span class="line">&gt;2. 第二项：</span><br><span class="line">   - 第二项嵌套的第一个元素</span><br><span class="line">   - 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure></li></ul></blockquote><hr><h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a><a href="#%E4%BB%A3%E7%A0%81">代码</a></h1><blockquote><p>同一行： <code>`code`</code><br>多行：用 ``` 包裹一段代码，并指定一种语言（也可以不指定）</p></blockquote><hr><h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a><a href="#%E9%93%BE%E6%8E%A5">链接</a></h1><blockquote><p><code>[text](url)</code> – 如：<a href="https://www.baidu.com/">百度</a></p></blockquote><hr><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a><a href="#%E5%9B%BE%E7%89%87">图片</a></h1><blockquote><p><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code><br><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" title="RUNOOB"></p></blockquote><hr><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a><a href="#%E8%A1%A8%E6%A0%BC">表格</a></h1><p>制作表格使用 <code>|</code> 来分隔不同的单元格，使用 <code>-</code> 来分隔表头和其他行。  </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">|  表头   | 表头  |</span><br><span class="line">|  ----  | ----  |</span><br><span class="line">| 单元格  | 单元格 |</span><br><span class="line">| 单元格  | 单元格 |</span><br></pre></td></tr></table></figure><table><thead><tr><th>表头</th><th>表头</th></tr></thead><tbody><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr></tbody></table><blockquote><p>对齐方式</p><ul><li><code>-:</code> 设置内容和标题栏居右对齐。</li><li><code>:-</code> 设置内容和标题栏居左对齐。</li><li><code>:-:</code> 设置内容和标题栏居中对齐。<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">| 左对齐 | 右对齐 | 居中对齐 |</span><br><span class="line">| :-----| ----: | :----: |</span><br><span class="line">| 单元格 | 单元格 | 单元格 |</span><br><span class="line">| 单元格 | 单元格 | 单元格 |</span><br></pre></td></tr></table></figure><table><thead><tr><th align="left">左 对 齐</th><th align="right">右 对 齐</th><th align="center">居 中 对 齐</th></tr></thead><tbody><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr></tbody></table></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Markdown" scheme="https://yeildp.github.io/categories/%E5%AD%A6%E4%B9%A0/Markdown/"/>
+    
+    
+    <category term="学习" scheme="https://yeildp.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Markdown" scheme="https://yeildp.github.io/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>《剑指offer》刷题笔记系列综述</title>
